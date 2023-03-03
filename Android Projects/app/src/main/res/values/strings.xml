@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tap It</string>
+    <string name="press_btn">✕</string>
+    <string name="tap_text">Tap</string>
+    <string name="arrow_down">↓</string>
+    <string name="text_counter">Your score:</string>
+    <string name="counter">0</string>
+
+</resources>
