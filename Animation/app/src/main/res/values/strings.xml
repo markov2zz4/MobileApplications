@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="greeting">Welcome to animation app</string>
+    <string name="swipe_text">Swipe to next page ➙</string>
+</resources>
